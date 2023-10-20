@@ -1,0 +1,52 @@
+
+header {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 200;
+    cursor: pointer;
+  }
+  .H2 {
+    font-family:'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: space-between;
+    color: red;
+    font-size: 16px;
+    font-weight: 400;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    cursor: pointer;
+  }
+  .H3 {
+    display: flex;
+    flex-direction: row-reverse;
+    font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    cursor: pointer;
+  }
+  .mid {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: sans-serif;
+  }
+  .product1 {
+    width: 33.33%;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+
+  }
+.link{
+    color: black;
+    text-decoration: none;
+}
+.e{
+    border: 5px;
+    border-radius: 4px;
+    padding: 5px;
+    border-color: black SOLID;
+    color:solid black;
+    cursor: pointer;
+}
